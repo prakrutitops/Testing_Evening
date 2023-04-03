@@ -1,0 +1,11 @@
+1.Select Total number of records
+
+2.Select Street address of NY
+
+3.Insert New Record
+
+4.Arrange Zipcode in Ascending Numeric Format 
+
+5.Select Data Row wise
+
+6.Select Column Wise
